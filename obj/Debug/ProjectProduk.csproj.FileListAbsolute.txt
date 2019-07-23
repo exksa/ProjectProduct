@@ -1,0 +1,14 @@
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectProduk\obj\Debug\ProjectProduk.csprojAssemblyReference.cache
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectProduk\obj\Debug\ProjectProduk.csproj.CoreCompileInputs.cache
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectProduk\bin\Debug\ProjectProduk.exe.config
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectProduk\bin\Debug\ProjectProduk.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectProduk\bin\Debug\ProjectProduk.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectProduk\obj\Debug\ProjectProduk.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectProduk\obj\Debug\ProjectProduk.pdb
+D:\18.11.2349\Final-Meeting\ProjectProduk\obj\Debug\ProjectProduk.csprojAssemblyReference.cache
+D:\18.11.2349\Final-Meeting\ProjectProduk\obj\Debug\ProjectProduk.csproj.CoreCompileInputs.cache
+D:\18.11.2349\Final-Meeting\ProjectProduk\obj\Debug\ProjectProduk.exe
+D:\18.11.2349\Final-Meeting\ProjectProduk\obj\Debug\ProjectProduk.pdb
+D:\18.11.2349\Final-Meeting\ProjectProduk\bin\Debug\ProjectProduk.exe.config
+D:\18.11.2349\Final-Meeting\ProjectProduk\bin\Debug\ProjectProduk.exe
+D:\18.11.2349\Final-Meeting\ProjectProduk\bin\Debug\ProjectProduk.pdb
